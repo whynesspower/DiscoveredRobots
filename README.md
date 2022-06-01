@@ -1,6 +1,6 @@
 # My-Discovered-Robots
 
-React + Redux
+An React APP
 
 To run the project:
 
