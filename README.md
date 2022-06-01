@@ -1,2 +1,9 @@
-# DiscoveredRobots
-Reach+Redux based application acting as a database for my robot friends! 
+# robofriends
+React + Redux
+
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+
