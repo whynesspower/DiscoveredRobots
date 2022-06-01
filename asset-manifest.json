@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DiscoveredRobots/static/css/main.9340d29f.chunk.css",
+    "main.js": "/DiscoveredRobots/static/js/main.c73c27e2.chunk.js",
+    "main.js.map": "/DiscoveredRobots/static/js/main.c73c27e2.chunk.js.map",
+    "runtime-main.js": "/DiscoveredRobots/static/js/runtime-main.6ffbad0c.js",
+    "runtime-main.js.map": "/DiscoveredRobots/static/js/runtime-main.6ffbad0c.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/DiscoveredRobots/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5bdf2fbf.chunk.js": "/DiscoveredRobots/static/js/2.5bdf2fbf.chunk.js",
+    "static/js/2.5bdf2fbf.chunk.js.map": "/DiscoveredRobots/static/js/2.5bdf2fbf.chunk.js.map",
+    "index.html": "/DiscoveredRobots/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/DiscoveredRobots/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.9340d29f.chunk.css.map": "/DiscoveredRobots/static/css/main.9340d29f.chunk.css.map",
+    "static/js/2.5bdf2fbf.chunk.js.LICENSE.txt": "/DiscoveredRobots/static/js/2.5bdf2fbf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DiscoveredRobots/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ffbad0c.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5bdf2fbf.chunk.js",
+    "static/css/main.9340d29f.chunk.css",
+    "static/js/main.c73c27e2.chunk.js"
+  ]
+}
