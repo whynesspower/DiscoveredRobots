@@ -1,4 +1,5 @@
-# robofriends
+# My-Discovered-Robots
+
 React + Redux
 
 To run the project:
